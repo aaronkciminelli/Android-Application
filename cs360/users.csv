@@ -1,0 +1,3 @@
+_id,created_at,email,password,updated_at,username
+6400018ba688c8899936922f,2023-03-02T01:53:15.375Z,johndoe@example.com,password123,2023-03-02T01:53:15.375Z,johndoe
+6400018ba688c88999369230,2023-03-02T01:53:15.375Z,janedoe@example.com,password456,2023-03-02T01:53:15.375Z,janedoe
