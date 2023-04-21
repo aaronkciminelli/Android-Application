@@ -8,7 +8,7 @@
 ## How did you approach the process of coding your app? What techniques or strategies did you use? How could those be applied in the future?
 
 
-##How did you test to ensure your code was functional? Why is this process important and what did it reveal?
+## How did you test to ensure your code was functional? Why is this process important and what did it reveal?
 
 
 ## Considering the full app design and development process, from initial planning to finalization, where did you have to innovate to overcome a challenge?
